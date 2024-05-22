@@ -25,10 +25,7 @@ class MyHomePage extends StatelessWidget {
         child: Container(
           decoration: const BoxDecoration(
             color: Color.fromARGB(255, 96, 18, 138),
-            // borderRadius: BorderRadius.only(
-            //     //bottomRight: Radius.circular(300),
-            //     //
-            //     ),
+            
           ),
           child: Column(
             mainAxisAlignment: MainAxisAlignment.center,
